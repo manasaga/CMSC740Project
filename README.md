@@ -9,6 +9,7 @@ Requirements:
 * Numpy, pycohon, plotly, scikit-image, trimesh
 
 Original paper results for surface reconstruction:
+
 In reconstruction/setup.conf, in train, change the input_path to path of the corresponding input .ply file on your local machine.
 Then for training, run python reconstruction/run.py.
 
