@@ -1,0 +1,246 @@
+numer of gpy 1
+running
+training
+saving checkpoint:  0
+plot validation epoch:  0
+Train Epoch: [0/20000 (0%)]	Train Loss: 0.350852	Manifold loss: 0.340032	Grad loss: 0.054101	Normals Loss: 0.000000
+Train Epoch: [100/20000 (0%)]	Train Loss: 0.024837	Manifold loss: 0.022478	Grad loss: 0.011795	Normals Loss: 0.000000
+Train Epoch: [200/20000 (1%)]	Train Loss: 0.020951	Manifold loss: 0.018831	Grad loss: 0.010596	Normals Loss: 0.000000
+Train Epoch: [300/20000 (2%)]	Train Loss: 0.016453	Manifold loss: 0.014915	Grad loss: 0.007688	Normals Loss: 0.000000
+Train Epoch: [400/20000 (2%)]	Train Loss: 0.032573	Manifold loss: 0.031707	Grad loss: 0.004331	Normals Loss: 0.000000
+Train Epoch: [500/20000 (2%)]	Train Loss: 0.011537	Manifold loss: 0.010830	Grad loss: 0.003533	Normals Loss: 0.000000
+Train Epoch: [600/20000 (3%)]	Train Loss: 0.009428	Manifold loss: 0.008925	Grad loss: 0.002514	Normals Loss: 0.000000
+Train Epoch: [700/20000 (4%)]	Train Loss: 0.008158	Manifold loss: 0.007652	Grad loss: 0.002530	Normals Loss: 0.000000
+Train Epoch: [800/20000 (4%)]	Train Loss: 0.021932	Manifold loss: 0.021401	Grad loss: 0.002656	Normals Loss: 0.000000
+Train Epoch: [900/20000 (4%)]	Train Loss: 0.019102	Manifold loss: 0.018770	Grad loss: 0.001660	Normals Loss: 0.000000
+saving checkpoint:  1000
+plot validation epoch:  1000
+Train Epoch: [1000/20000 (5%)]	Train Loss: 0.006238	Manifold loss: 0.005858	Grad loss: 0.001903	Normals Loss: 0.000000
+Train Epoch: [1100/20000 (6%)]	Train Loss: 0.011035	Manifold loss: 0.010619	Grad loss: 0.002082	Normals Loss: 0.000000
+Train Epoch: [1200/20000 (6%)]	Train Loss: 0.008356	Manifold loss: 0.008005	Grad loss: 0.001754	Normals Loss: 0.000000
+Train Epoch: [1300/20000 (6%)]	Train Loss: 0.006520	Manifold loss: 0.006167	Grad loss: 0.001764	Normals Loss: 0.000000
+Train Epoch: [1400/20000 (7%)]	Train Loss: 0.004705	Manifold loss: 0.004414	Grad loss: 0.001455	Normals Loss: 0.000000
+Train Epoch: [1500/20000 (8%)]	Train Loss: 0.013789	Manifold loss: 0.013370	Grad loss: 0.002099	Normals Loss: 0.000000
+Train Epoch: [1600/20000 (8%)]	Train Loss: 0.008922	Manifold loss: 0.008445	Grad loss: 0.002386	Normals Loss: 0.000000
+Train Epoch: [1700/20000 (8%)]	Train Loss: 0.008024	Manifold loss: 0.007556	Grad loss: 0.002340	Normals Loss: 0.000000
+Train Epoch: [1800/20000 (9%)]	Train Loss: 0.012056	Manifold loss: 0.011618	Grad loss: 0.002189	Normals Loss: 0.000000
+Train Epoch: [1900/20000 (10%)]	Train Loss: 0.012258	Manifold loss: 0.011804	Grad loss: 0.002270	Normals Loss: 0.000000
+saving checkpoint:  2000
+plot validation epoch:  2000
+Train Epoch: [2000/20000 (10%)]	Train Loss: 0.009659	Manifold loss: 0.009262	Grad loss: 0.001987	Normals Loss: 0.000000
+Train Epoch: [2100/20000 (10%)]	Train Loss: 0.005706	Manifold loss: 0.005522	Grad loss: 0.000917	Normals Loss: 0.000000
+Train Epoch: [2200/20000 (11%)]	Train Loss: 0.004767	Manifold loss: 0.004548	Grad loss: 0.001099	Normals Loss: 0.000000
+Train Epoch: [2300/20000 (12%)]	Train Loss: 0.005240	Manifold loss: 0.005044	Grad loss: 0.000980	Normals Loss: 0.000000
+Train Epoch: [2400/20000 (12%)]	Train Loss: 0.005977	Manifold loss: 0.005758	Grad loss: 0.001095	Normals Loss: 0.000000
+Train Epoch: [2500/20000 (12%)]	Train Loss: 0.005698	Manifold loss: 0.005522	Grad loss: 0.000884	Normals Loss: 0.000000
+Train Epoch: [2600/20000 (13%)]	Train Loss: 0.005560	Manifold loss: 0.005376	Grad loss: 0.000918	Normals Loss: 0.000000
+Train Epoch: [2700/20000 (14%)]	Train Loss: 0.004417	Manifold loss: 0.004257	Grad loss: 0.000801	Normals Loss: 0.000000
+Train Epoch: [2800/20000 (14%)]	Train Loss: 0.004524	Manifold loss: 0.004364	Grad loss: 0.000804	Normals Loss: 0.000000
+Train Epoch: [2900/20000 (14%)]	Train Loss: 0.004251	Manifold loss: 0.004066	Grad loss: 0.000923	Normals Loss: 0.000000
+saving checkpoint:  3000
+plot validation epoch:  3000
+Train Epoch: [3000/20000 (15%)]	Train Loss: 0.005018	Manifold loss: 0.004825	Grad loss: 0.000965	Normals Loss: 0.000000
+Train Epoch: [3100/20000 (16%)]	Train Loss: 0.004614	Manifold loss: 0.004420	Grad loss: 0.000973	Normals Loss: 0.000000
+Train Epoch: [3200/20000 (16%)]	Train Loss: 0.002447	Manifold loss: 0.002233	Grad loss: 0.001068	Normals Loss: 0.000000
+Train Epoch: [3300/20000 (16%)]	Train Loss: 0.007085	Manifold loss: 0.006798	Grad loss: 0.001437	Normals Loss: 0.000000
+Train Epoch: [3400/20000 (17%)]	Train Loss: 0.002441	Manifold loss: 0.002253	Grad loss: 0.000938	Normals Loss: 0.000000
+Train Epoch: [3500/20000 (18%)]	Train Loss: 0.004123	Manifold loss: 0.003964	Grad loss: 0.000792	Normals Loss: 0.000000
+Train Epoch: [3600/20000 (18%)]	Train Loss: 0.006114	Manifold loss: 0.005906	Grad loss: 0.001038	Normals Loss: 0.000000
+Train Epoch: [3700/20000 (18%)]	Train Loss: 0.004844	Manifold loss: 0.004661	Grad loss: 0.000911	Normals Loss: 0.000000
+Train Epoch: [3800/20000 (19%)]	Train Loss: 0.005984	Manifold loss: 0.005768	Grad loss: 0.001081	Normals Loss: 0.000000
+Train Epoch: [3900/20000 (20%)]	Train Loss: 0.006579	Manifold loss: 0.006375	Grad loss: 0.001018	Normals Loss: 0.000000
+saving checkpoint:  4000
+plot validation epoch:  4000
+Train Epoch: [4000/20000 (20%)]	Train Loss: 0.004686	Manifold loss: 0.004487	Grad loss: 0.000994	Normals Loss: 0.000000
+Train Epoch: [4100/20000 (20%)]	Train Loss: 0.002778	Manifold loss: 0.002594	Grad loss: 0.000917	Normals Loss: 0.000000
+Train Epoch: [4200/20000 (21%)]	Train Loss: 0.003060	Manifold loss: 0.002864	Grad loss: 0.000980	Normals Loss: 0.000000
+Train Epoch: [4300/20000 (22%)]	Train Loss: 0.002881	Manifold loss: 0.002714	Grad loss: 0.000834	Normals Loss: 0.000000
+Train Epoch: [4400/20000 (22%)]	Train Loss: 0.002912	Manifold loss: 0.002736	Grad loss: 0.000880	Normals Loss: 0.000000
+Train Epoch: [4500/20000 (22%)]	Train Loss: 0.003094	Manifold loss: 0.002927	Grad loss: 0.000837	Normals Loss: 0.000000
+Train Epoch: [4600/20000 (23%)]	Train Loss: 0.003076	Manifold loss: 0.002899	Grad loss: 0.000882	Normals Loss: 0.000000
+Train Epoch: [4700/20000 (24%)]	Train Loss: 0.003069	Manifold loss: 0.002902	Grad loss: 0.000833	Normals Loss: 0.000000
+Train Epoch: [4800/20000 (24%)]	Train Loss: 0.003166	Manifold loss: 0.002978	Grad loss: 0.000943	Normals Loss: 0.000000
+Train Epoch: [4900/20000 (24%)]	Train Loss: 0.003011	Manifold loss: 0.002812	Grad loss: 0.000994	Normals Loss: 0.000000
+saving checkpoint:  5000
+plot validation epoch:  5000
+Train Epoch: [5000/20000 (25%)]	Train Loss: 0.003127	Manifold loss: 0.002959	Grad loss: 0.000844	Normals Loss: 0.000000
+Train Epoch: [5100/20000 (26%)]	Train Loss: 0.003177	Manifold loss: 0.002993	Grad loss: 0.000915	Normals Loss: 0.000000
+Train Epoch: [5200/20000 (26%)]	Train Loss: 0.003198	Manifold loss: 0.002986	Grad loss: 0.001060	Normals Loss: 0.000000
+Train Epoch: [5300/20000 (26%)]	Train Loss: 0.003537	Manifold loss: 0.003377	Grad loss: 0.000801	Normals Loss: 0.000000
+Train Epoch: [5400/20000 (27%)]	Train Loss: 0.003192	Manifold loss: 0.003021	Grad loss: 0.000857	Normals Loss: 0.000000
+Train Epoch: [5500/20000 (28%)]	Train Loss: 0.001671	Manifold loss: 0.001513	Grad loss: 0.000791	Normals Loss: 0.000000
+Train Epoch: [5600/20000 (28%)]	Train Loss: 0.001533	Manifold loss: 0.001378	Grad loss: 0.000774	Normals Loss: 0.000000
+Train Epoch: [5700/20000 (28%)]	Train Loss: 0.001606	Manifold loss: 0.001441	Grad loss: 0.000825	Normals Loss: 0.000000
+Train Epoch: [5800/20000 (29%)]	Train Loss: 0.001477	Manifold loss: 0.001316	Grad loss: 0.000801	Normals Loss: 0.000000
+Train Epoch: [5900/20000 (30%)]	Train Loss: 0.003307	Manifold loss: 0.003131	Grad loss: 0.000883	Normals Loss: 0.000000
+saving checkpoint:  6000
+plot validation epoch:  6000
+Train Epoch: [6000/20000 (30%)]	Train Loss: 0.002659	Manifold loss: 0.002504	Grad loss: 0.000773	Normals Loss: 0.000000
+Train Epoch: [6100/20000 (30%)]	Train Loss: 0.001155	Manifold loss: 0.001006	Grad loss: 0.000740	Normals Loss: 0.000000
+Train Epoch: [6200/20000 (31%)]	Train Loss: 0.001166	Manifold loss: 0.001014	Grad loss: 0.000759	Normals Loss: 0.000000
+Train Epoch: [6300/20000 (32%)]	Train Loss: 0.001273	Manifold loss: 0.001091	Grad loss: 0.000911	Normals Loss: 0.000000
+Train Epoch: [6400/20000 (32%)]	Train Loss: 0.001360	Manifold loss: 0.001194	Grad loss: 0.000827	Normals Loss: 0.000000
+Train Epoch: [6500/20000 (32%)]	Train Loss: 0.001113	Manifold loss: 0.000964	Grad loss: 0.000746	Normals Loss: 0.000000
+Train Epoch: [6600/20000 (33%)]	Train Loss: 0.001227	Manifold loss: 0.001091	Grad loss: 0.000680	Normals Loss: 0.000000
+Train Epoch: [6700/20000 (34%)]	Train Loss: 0.001275	Manifold loss: 0.001111	Grad loss: 0.000823	Normals Loss: 0.000000
+Train Epoch: [6800/20000 (34%)]	Train Loss: 0.001123	Manifold loss: 0.000972	Grad loss: 0.000757	Normals Loss: 0.000000
+Train Epoch: [6900/20000 (34%)]	Train Loss: 0.001361	Manifold loss: 0.001175	Grad loss: 0.000930	Normals Loss: 0.000000
+saving checkpoint:  7000
+plot validation epoch:  7000
+Train Epoch: [7000/20000 (35%)]	Train Loss: 0.001206	Manifold loss: 0.001065	Grad loss: 0.000704	Normals Loss: 0.000000
+Train Epoch: [7100/20000 (36%)]	Train Loss: 0.001293	Manifold loss: 0.001129	Grad loss: 0.000823	Normals Loss: 0.000000
+Train Epoch: [7200/20000 (36%)]	Train Loss: 0.001767	Manifold loss: 0.001600	Grad loss: 0.000837	Normals Loss: 0.000000
+Train Epoch: [7300/20000 (36%)]	Train Loss: 0.001462	Manifold loss: 0.001290	Grad loss: 0.000862	Normals Loss: 0.000000
+Train Epoch: [7400/20000 (37%)]	Train Loss: 0.002425	Manifold loss: 0.002286	Grad loss: 0.000692	Normals Loss: 0.000000
+Train Epoch: [7500/20000 (38%)]	Train Loss: 0.002439	Manifold loss: 0.002322	Grad loss: 0.000585	Normals Loss: 0.000000
+Train Epoch: [7600/20000 (38%)]	Train Loss: 0.002348	Manifold loss: 0.002220	Grad loss: 0.000642	Normals Loss: 0.000000
+Train Epoch: [7700/20000 (38%)]	Train Loss: 0.001947	Manifold loss: 0.001831	Grad loss: 0.000579	Normals Loss: 0.000000
+Train Epoch: [7800/20000 (39%)]	Train Loss: 0.002022	Manifold loss: 0.001880	Grad loss: 0.000708	Normals Loss: 0.000000
+Train Epoch: [7900/20000 (40%)]	Train Loss: 0.002001	Manifold loss: 0.001849	Grad loss: 0.000763	Normals Loss: 0.000000
+saving checkpoint:  8000
+plot validation epoch:  8000
+Train Epoch: [8000/20000 (40%)]	Train Loss: 0.001874	Manifold loss: 0.001700	Grad loss: 0.000871	Normals Loss: 0.000000
+Train Epoch: [8100/20000 (40%)]	Train Loss: 0.000956	Manifold loss: 0.000787	Grad loss: 0.000845	Normals Loss: 0.000000
+Train Epoch: [8200/20000 (41%)]	Train Loss: 0.000953	Manifold loss: 0.000811	Grad loss: 0.000712	Normals Loss: 0.000000
+Train Epoch: [8300/20000 (42%)]	Train Loss: 0.000956	Manifold loss: 0.000812	Grad loss: 0.000719	Normals Loss: 0.000000
+Train Epoch: [8400/20000 (42%)]	Train Loss: 0.000922	Manifold loss: 0.000787	Grad loss: 0.000679	Normals Loss: 0.000000
+Train Epoch: [8500/20000 (42%)]	Train Loss: 0.000916	Manifold loss: 0.000770	Grad loss: 0.000732	Normals Loss: 0.000000
+Train Epoch: [8600/20000 (43%)]	Train Loss: 0.000938	Manifold loss: 0.000793	Grad loss: 0.000724	Normals Loss: 0.000000
+Train Epoch: [8700/20000 (44%)]	Train Loss: 0.000901	Manifold loss: 0.000755	Grad loss: 0.000734	Normals Loss: 0.000000
+Train Epoch: [8800/20000 (44%)]	Train Loss: 0.000880	Manifold loss: 0.000729	Grad loss: 0.000755	Normals Loss: 0.000000
+Train Epoch: [8900/20000 (44%)]	Train Loss: 0.000931	Manifold loss: 0.000786	Grad loss: 0.000722	Normals Loss: 0.000000
+saving checkpoint:  9000
+plot validation epoch:  9000
+Train Epoch: [9000/20000 (45%)]	Train Loss: 0.000921	Manifold loss: 0.000796	Grad loss: 0.000626	Normals Loss: 0.000000
+Train Epoch: [9100/20000 (46%)]	Train Loss: 0.000925	Manifold loss: 0.000786	Grad loss: 0.000695	Normals Loss: 0.000000
+Train Epoch: [9200/20000 (46%)]	Train Loss: 0.000960	Manifold loss: 0.000809	Grad loss: 0.000754	Normals Loss: 0.000000
+Train Epoch: [9300/20000 (46%)]	Train Loss: 0.000904	Manifold loss: 0.000759	Grad loss: 0.000722	Normals Loss: 0.000000
+Train Epoch: [9400/20000 (47%)]	Train Loss: 0.000899	Manifold loss: 0.000762	Grad loss: 0.000686	Normals Loss: 0.000000
+Train Epoch: [9500/20000 (48%)]	Train Loss: 0.000934	Manifold loss: 0.000767	Grad loss: 0.000837	Normals Loss: 0.000000
+Train Epoch: [9600/20000 (48%)]	Train Loss: 0.000976	Manifold loss: 0.000823	Grad loss: 0.000763	Normals Loss: 0.000000
+Train Epoch: [9700/20000 (48%)]	Train Loss: 0.000906	Manifold loss: 0.000761	Grad loss: 0.000724	Normals Loss: 0.000000
+Train Epoch: [9800/20000 (49%)]	Train Loss: 0.000963	Manifold loss: 0.000812	Grad loss: 0.000752	Normals Loss: 0.000000
+Train Epoch: [9900/20000 (50%)]	Train Loss: 0.000856	Manifold loss: 0.000735	Grad loss: 0.000604	Normals Loss: 0.000000
+saving checkpoint:  10000
+plot validation epoch:  10000
+Train Epoch: [10000/20000 (50%)]	Train Loss: 0.000940	Manifold loss: 0.000795	Grad loss: 0.000728	Normals Loss: 0.000000
+Train Epoch: [10100/20000 (50%)]	Train Loss: 0.000801	Manifold loss: 0.000661	Grad loss: 0.000704	Normals Loss: 0.000000
+Train Epoch: [10200/20000 (51%)]	Train Loss: 0.000778	Manifold loss: 0.000634	Grad loss: 0.000716	Normals Loss: 0.000000
+Train Epoch: [10300/20000 (52%)]	Train Loss: 0.000836	Manifold loss: 0.000681	Grad loss: 0.000773	Normals Loss: 0.000000
+Train Epoch: [10400/20000 (52%)]	Train Loss: 0.000796	Manifold loss: 0.000662	Grad loss: 0.000670	Normals Loss: 0.000000
+Train Epoch: [10500/20000 (52%)]	Train Loss: 0.000789	Manifold loss: 0.000654	Grad loss: 0.000677	Normals Loss: 0.000000
+Train Epoch: [10600/20000 (53%)]	Train Loss: 0.000789	Manifold loss: 0.000668	Grad loss: 0.000605	Normals Loss: 0.000000
+Train Epoch: [10700/20000 (54%)]	Train Loss: 0.000813	Manifold loss: 0.000660	Grad loss: 0.000764	Normals Loss: 0.000000
+Train Epoch: [10800/20000 (54%)]	Train Loss: 0.000756	Manifold loss: 0.000631	Grad loss: 0.000627	Normals Loss: 0.000000
+Train Epoch: [10900/20000 (54%)]	Train Loss: 0.000794	Manifold loss: 0.000660	Grad loss: 0.000671	Normals Loss: 0.000000
+saving checkpoint:  11000
+plot validation epoch:  11000
+Train Epoch: [11000/20000 (55%)]	Train Loss: 0.000800	Manifold loss: 0.000664	Grad loss: 0.000681	Normals Loss: 0.000000
+Train Epoch: [11100/20000 (56%)]	Train Loss: 0.000784	Manifold loss: 0.000634	Grad loss: 0.000750	Normals Loss: 0.000000
+Train Epoch: [11200/20000 (56%)]	Train Loss: 0.000774	Manifold loss: 0.000633	Grad loss: 0.000705	Normals Loss: 0.000000
+Train Epoch: [11300/20000 (56%)]	Train Loss: 0.000781	Manifold loss: 0.000641	Grad loss: 0.000701	Normals Loss: 0.000000
+Train Epoch: [11400/20000 (57%)]	Train Loss: 0.000792	Manifold loss: 0.000666	Grad loss: 0.000626	Normals Loss: 0.000000
+Train Epoch: [11500/20000 (58%)]	Train Loss: 0.000848	Manifold loss: 0.000670	Grad loss: 0.000892	Normals Loss: 0.000000
+Train Epoch: [11600/20000 (58%)]	Train Loss: 0.000800	Manifold loss: 0.000666	Grad loss: 0.000670	Normals Loss: 0.000000
+Train Epoch: [11700/20000 (58%)]	Train Loss: 0.000814	Manifold loss: 0.000685	Grad loss: 0.000646	Normals Loss: 0.000000
+Train Epoch: [11800/20000 (59%)]	Train Loss: 0.000753	Manifold loss: 0.000609	Grad loss: 0.000719	Normals Loss: 0.000000
+Train Epoch: [11900/20000 (60%)]	Train Loss: 0.000761	Manifold loss: 0.000631	Grad loss: 0.000647	Normals Loss: 0.000000
+saving checkpoint:  12000
+plot validation epoch:  12000
+Train Epoch: [12000/20000 (60%)]	Train Loss: 0.000791	Manifold loss: 0.000660	Grad loss: 0.000656	Normals Loss: 0.000000
+Train Epoch: [12100/20000 (60%)]	Train Loss: 0.000779	Manifold loss: 0.000608	Grad loss: 0.000858	Normals Loss: 0.000000
+Train Epoch: [12200/20000 (61%)]	Train Loss: 0.000747	Manifold loss: 0.000589	Grad loss: 0.000787	Normals Loss: 0.000000
+Train Epoch: [12300/20000 (62%)]	Train Loss: 0.000747	Manifold loss: 0.000600	Grad loss: 0.000739	Normals Loss: 0.000000
+Train Epoch: [12400/20000 (62%)]	Train Loss: 0.000709	Manifold loss: 0.000581	Grad loss: 0.000642	Normals Loss: 0.000000
+Train Epoch: [12500/20000 (62%)]	Train Loss: 0.000732	Manifold loss: 0.000594	Grad loss: 0.000691	Normals Loss: 0.000000
+Train Epoch: [12600/20000 (63%)]	Train Loss: 0.000694	Manifold loss: 0.000573	Grad loss: 0.000607	Normals Loss: 0.000000
+Train Epoch: [12700/20000 (64%)]	Train Loss: 0.000731	Manifold loss: 0.000577	Grad loss: 0.000767	Normals Loss: 0.000000
+Train Epoch: [12800/20000 (64%)]	Train Loss: 0.000713	Manifold loss: 0.000573	Grad loss: 0.000699	Normals Loss: 0.000000
+Train Epoch: [12900/20000 (64%)]	Train Loss: 0.000741	Manifold loss: 0.000594	Grad loss: 0.000735	Normals Loss: 0.000000
+saving checkpoint:  13000
+plot validation epoch:  13000
+Train Epoch: [13000/20000 (65%)]	Train Loss: 0.000709	Manifold loss: 0.000570	Grad loss: 0.000695	Normals Loss: 0.000000
+Train Epoch: [13100/20000 (66%)]	Train Loss: 0.000692	Manifold loss: 0.000569	Grad loss: 0.000613	Normals Loss: 0.000000
+Train Epoch: [13200/20000 (66%)]	Train Loss: 0.000708	Manifold loss: 0.000573	Grad loss: 0.000674	Normals Loss: 0.000000
+Train Epoch: [13300/20000 (66%)]	Train Loss: 0.000683	Manifold loss: 0.000563	Grad loss: 0.000602	Normals Loss: 0.000000
+Train Epoch: [13400/20000 (67%)]	Train Loss: 0.000706	Manifold loss: 0.000577	Grad loss: 0.000646	Normals Loss: 0.000000
+Train Epoch: [13500/20000 (68%)]	Train Loss: 0.000719	Manifold loss: 0.000597	Grad loss: 0.000610	Normals Loss: 0.000000
+Train Epoch: [13600/20000 (68%)]	Train Loss: 0.000713	Manifold loss: 0.000567	Grad loss: 0.000728	Normals Loss: 0.000000
+Train Epoch: [13700/20000 (68%)]	Train Loss: 0.000706	Manifold loss: 0.000585	Grad loss: 0.000604	Normals Loss: 0.000000
+Train Epoch: [13800/20000 (69%)]	Train Loss: 0.000701	Manifold loss: 0.000578	Grad loss: 0.000612	Normals Loss: 0.000000
+Train Epoch: [13900/20000 (70%)]	Train Loss: 0.000707	Manifold loss: 0.000568	Grad loss: 0.000693	Normals Loss: 0.000000
+saving checkpoint:  14000
+plot validation epoch:  14000
+Train Epoch: [14000/20000 (70%)]	Train Loss: 0.000696	Manifold loss: 0.000557	Grad loss: 0.000693	Normals Loss: 0.000000
+Train Epoch: [14100/20000 (70%)]	Train Loss: 0.000668	Manifold loss: 0.000542	Grad loss: 0.000631	Normals Loss: 0.000000
+Train Epoch: [14200/20000 (71%)]	Train Loss: 0.000699	Manifold loss: 0.000570	Grad loss: 0.000644	Normals Loss: 0.000000
+Train Epoch: [14300/20000 (72%)]	Train Loss: 0.000681	Manifold loss: 0.000556	Grad loss: 0.000627	Normals Loss: 0.000000
+Train Epoch: [14400/20000 (72%)]	Train Loss: 0.000742	Manifold loss: 0.000575	Grad loss: 0.000836	Normals Loss: 0.000000
+Train Epoch: [14500/20000 (72%)]	Train Loss: 0.000683	Manifold loss: 0.000549	Grad loss: 0.000669	Normals Loss: 0.000000
+Train Epoch: [14600/20000 (73%)]	Train Loss: 0.000685	Manifold loss: 0.000559	Grad loss: 0.000631	Normals Loss: 0.000000
+Train Epoch: [14700/20000 (74%)]	Train Loss: 0.000680	Manifold loss: 0.000552	Grad loss: 0.000640	Normals Loss: 0.000000
+Train Epoch: [14800/20000 (74%)]	Train Loss: 0.000658	Manifold loss: 0.000521	Grad loss: 0.000686	Normals Loss: 0.000000
+Train Epoch: [14900/20000 (74%)]	Train Loss: 0.000712	Manifold loss: 0.000547	Grad loss: 0.000825	Normals Loss: 0.000000
+saving checkpoint:  15000
+plot validation epoch:  15000
+Train Epoch: [15000/20000 (75%)]	Train Loss: 0.000716	Manifold loss: 0.000577	Grad loss: 0.000700	Normals Loss: 0.000000
+Train Epoch: [15100/20000 (76%)]	Train Loss: 0.000703	Manifold loss: 0.000553	Grad loss: 0.000749	Normals Loss: 0.000000
+Train Epoch: [15200/20000 (76%)]	Train Loss: 0.000693	Manifold loss: 0.000555	Grad loss: 0.000689	Normals Loss: 0.000000
+Train Epoch: [15300/20000 (76%)]	Train Loss: 0.000695	Manifold loss: 0.000555	Grad loss: 0.000699	Normals Loss: 0.000000
+Train Epoch: [15400/20000 (77%)]	Train Loss: 0.000649	Manifold loss: 0.000530	Grad loss: 0.000591	Normals Loss: 0.000000
+Train Epoch: [15500/20000 (78%)]	Train Loss: 0.000696	Manifold loss: 0.000560	Grad loss: 0.000676	Normals Loss: 0.000000
+Train Epoch: [15600/20000 (78%)]	Train Loss: 0.000647	Manifold loss: 0.000513	Grad loss: 0.000673	Normals Loss: 0.000000
+Train Epoch: [15700/20000 (78%)]	Train Loss: 0.000674	Manifold loss: 0.000548	Grad loss: 0.000631	Normals Loss: 0.000000
+Train Epoch: [15800/20000 (79%)]	Train Loss: 0.000690	Manifold loss: 0.000567	Grad loss: 0.000617	Normals Loss: 0.000000
+Train Epoch: [15900/20000 (80%)]	Train Loss: 0.000663	Manifold loss: 0.000544	Grad loss: 0.000597	Normals Loss: 0.000000
+saving checkpoint:  16000
+plot validation epoch:  16000
+Train Epoch: [16000/20000 (80%)]	Train Loss: 0.000677	Manifold loss: 0.000542	Grad loss: 0.000673	Normals Loss: 0.000000
+Train Epoch: [16100/20000 (80%)]	Train Loss: 0.000660	Manifold loss: 0.000534	Grad loss: 0.000630	Normals Loss: 0.000000
+Train Epoch: [16200/20000 (81%)]	Train Loss: 0.000665	Manifold loss: 0.000534	Grad loss: 0.000655	Normals Loss: 0.000000
+Train Epoch: [16300/20000 (82%)]	Train Loss: 0.000692	Manifold loss: 0.000537	Grad loss: 0.000774	Normals Loss: 0.000000
+Train Epoch: [16400/20000 (82%)]	Train Loss: 0.000665	Manifold loss: 0.000534	Grad loss: 0.000654	Normals Loss: 0.000000
+Train Epoch: [16500/20000 (82%)]	Train Loss: 0.000657	Manifold loss: 0.000521	Grad loss: 0.000679	Normals Loss: 0.000000
+Train Epoch: [16600/20000 (83%)]	Train Loss: 0.000720	Manifold loss: 0.000559	Grad loss: 0.000807	Normals Loss: 0.000000
+Train Epoch: [16700/20000 (84%)]	Train Loss: 0.000678	Manifold loss: 0.000527	Grad loss: 0.000757	Normals Loss: 0.000000
+Train Epoch: [16800/20000 (84%)]	Train Loss: 0.000696	Manifold loss: 0.000541	Grad loss: 0.000773	Normals Loss: 0.000000
+Train Epoch: [16900/20000 (84%)]	Train Loss: 0.000639	Manifold loss: 0.000519	Grad loss: 0.000604	Normals Loss: 0.000000
+saving checkpoint:  17000
+plot validation epoch:  17000
+Train Epoch: [17000/20000 (85%)]	Train Loss: 0.000663	Manifold loss: 0.000513	Grad loss: 0.000749	Normals Loss: 0.000000
+Train Epoch: [17100/20000 (86%)]	Train Loss: 0.000655	Manifold loss: 0.000533	Grad loss: 0.000611	Normals Loss: 0.000000
+Train Epoch: [17200/20000 (86%)]	Train Loss: 0.000690	Manifold loss: 0.000553	Grad loss: 0.000685	Normals Loss: 0.000000
+Train Epoch: [17300/20000 (86%)]	Train Loss: 0.000677	Manifold loss: 0.000543	Grad loss: 0.000672	Normals Loss: 0.000000
+Train Epoch: [17400/20000 (87%)]	Train Loss: 0.000661	Manifold loss: 0.000533	Grad loss: 0.000643	Normals Loss: 0.000000
+Train Epoch: [17500/20000 (88%)]	Train Loss: 0.000659	Manifold loss: 0.000531	Grad loss: 0.000639	Normals Loss: 0.000000
+Train Epoch: [17600/20000 (88%)]	Train Loss: 0.000625	Manifold loss: 0.000507	Grad loss: 0.000591	Normals Loss: 0.000000
+Train Epoch: [17700/20000 (88%)]	Train Loss: 0.000666	Manifold loss: 0.000528	Grad loss: 0.000690	Normals Loss: 0.000000
+Train Epoch: [17800/20000 (89%)]	Train Loss: 0.000658	Manifold loss: 0.000525	Grad loss: 0.000667	Normals Loss: 0.000000
+Train Epoch: [17900/20000 (90%)]	Train Loss: 0.000644	Manifold loss: 0.000524	Grad loss: 0.000597	Normals Loss: 0.000000
+saving checkpoint:  18000
+plot validation epoch:  18000
+Train Epoch: [18000/20000 (90%)]	Train Loss: 0.000652	Manifold loss: 0.000513	Grad loss: 0.000696	Normals Loss: 0.000000
+Train Epoch: [18100/20000 (90%)]	Train Loss: 0.000639	Manifold loss: 0.000516	Grad loss: 0.000612	Normals Loss: 0.000000
+Train Epoch: [18200/20000 (91%)]	Train Loss: 0.000666	Manifold loss: 0.000522	Grad loss: 0.000719	Normals Loss: 0.000000
+Train Epoch: [18300/20000 (92%)]	Train Loss: 0.000687	Manifold loss: 0.000537	Grad loss: 0.000753	Normals Loss: 0.000000
+Train Epoch: [18400/20000 (92%)]	Train Loss: 0.000668	Manifold loss: 0.000545	Grad loss: 0.000616	Normals Loss: 0.000000
+Train Epoch: [18500/20000 (92%)]	Train Loss: 0.000653	Manifold loss: 0.000531	Grad loss: 0.000606	Normals Loss: 0.000000
+Train Epoch: [18600/20000 (93%)]	Train Loss: 0.000655	Manifold loss: 0.000515	Grad loss: 0.000700	Normals Loss: 0.000000
+Train Epoch: [18700/20000 (94%)]	Train Loss: 0.000652	Manifold loss: 0.000514	Grad loss: 0.000692	Normals Loss: 0.000000
+Train Epoch: [18800/20000 (94%)]	Train Loss: 0.000669	Manifold loss: 0.000512	Grad loss: 0.000781	Normals Loss: 0.000000
+Train Epoch: [18900/20000 (94%)]	Train Loss: 0.000637	Manifold loss: 0.000516	Grad loss: 0.000606	Normals Loss: 0.000000
+saving checkpoint:  19000
+plot validation epoch:  19000
+Train Epoch: [19000/20000 (95%)]	Train Loss: 0.000650	Manifold loss: 0.000521	Grad loss: 0.000644	Normals Loss: 0.000000
+Train Epoch: [19100/20000 (96%)]	Train Loss: 0.000638	Manifold loss: 0.000513	Grad loss: 0.000629	Normals Loss: 0.000000
+Train Epoch: [19200/20000 (96%)]	Train Loss: 0.000636	Manifold loss: 0.000510	Grad loss: 0.000627	Normals Loss: 0.000000
+Train Epoch: [19300/20000 (96%)]	Train Loss: 0.000662	Manifold loss: 0.000534	Grad loss: 0.000637	Normals Loss: 0.000000
+Train Epoch: [19400/20000 (97%)]	Train Loss: 0.000653	Manifold loss: 0.000503	Grad loss: 0.000746	Normals Loss: 0.000000
+Train Epoch: [19500/20000 (98%)]	Train Loss: 0.000631	Manifold loss: 0.000509	Grad loss: 0.000610	Normals Loss: 0.000000
+Train Epoch: [19600/20000 (98%)]	Train Loss: 0.000660	Manifold loss: 0.000529	Grad loss: 0.000654	Normals Loss: 0.000000
+Train Epoch: [19700/20000 (98%)]	Train Loss: 0.000655	Manifold loss: 0.000515	Grad loss: 0.000701	Normals Loss: 0.000000
+Train Epoch: [19800/20000 (99%)]	Train Loss: 0.000635	Manifold loss: 0.000510	Grad loss: 0.000622	Normals Loss: 0.000000
+Train Epoch: [19900/20000 (100%)]	Train Loss: 0.000645	Manifold loss: 0.000517	Grad loss: 0.000640	Normals Loss: 0.000000
+saving checkpoint:  20000
+plot validation epoch:  20000
+Train Epoch: [20000/20000 (100%)]	Train Loss: 0.000631	Manifold loss: 0.000510	Grad loss: 0.000606	Normals Loss: 0.000000
