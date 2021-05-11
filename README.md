@@ -8,6 +8,10 @@ Requirements:
 * Pytorch 1.2 or later
 * Numpy, pycohon, plotly, scikit-image, trimesh
 
+Data:
+
+The data can be downloaded from [link](https://dfaust.is.tue.mpg.de/downloads).
+
 Original paper results for surface reconstruction:
 
 In reconstruction/setup.conf, in train, change the input_path to path of the corresponding input .ply file on your local machine.
